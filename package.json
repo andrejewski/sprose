@@ -1,0 +1,31 @@
+{
+  "name": "sprose",
+  "version": "0.0.1",
+  "description": "S-expressive prose language",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrejewski/sprose.git"
+  },
+  "keywords": [
+    "s-expression",
+    "lisp",
+    "text",
+    "prose"
+  ],
+  "author": "Chris Andrejewski <christopher.andrejewski@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrejewski/sprose/issues"
+  },
+  "homepage": "https://github.com/andrejewski/sprose#readme",
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  },
+  "dependencies": {
+    "defaults": "^1.0.2"
+  }
+}
