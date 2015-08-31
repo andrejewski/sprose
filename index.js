@@ -1,7 +1,7 @@
 
 var paul = require('paul');
 var defaults = require('defaults');
-var parse = require('parser').parse;
+var parse = require('./parser').parse;
 var util = require('./util');
 
 function sprose(scope, text) {
